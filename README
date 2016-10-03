@@ -1,0 +1,5 @@
+This project contains bash scripts to apply schema migrations to an OrientDB
+database. There are two key scripts. The script named
+_odb-migrations-pre-2_2.sh_ is designed to work with OrientDB versions prior to
+2.2.x. The other script, _odb-migrations.sh_ is designed to work with OrientDB
+versions from 2.2.x onwards.
